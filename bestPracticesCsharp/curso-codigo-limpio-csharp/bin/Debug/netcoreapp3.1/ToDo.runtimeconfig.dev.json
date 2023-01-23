@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/codesilas/.dotnet/store/|arch|/|tfm|",
+      "/home/codesilas/.nuget/packages"
+    ]
+  }
+}

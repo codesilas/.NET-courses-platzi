@@ -1,0 +1,15 @@
+/home/codesilas/cursos/platzi/dotnet_courses/bestPracticesCsharp/curso-codigo-limpio-csharp/bin/Debug/net7.0/ToDo
+/home/codesilas/cursos/platzi/dotnet_courses/bestPracticesCsharp/curso-codigo-limpio-csharp/bin/Debug/net7.0/ToDo.deps.json
+/home/codesilas/cursos/platzi/dotnet_courses/bestPracticesCsharp/curso-codigo-limpio-csharp/bin/Debug/net7.0/ToDo.runtimeconfig.json
+/home/codesilas/cursos/platzi/dotnet_courses/bestPracticesCsharp/curso-codigo-limpio-csharp/bin/Debug/net7.0/ToDo.dll
+/home/codesilas/cursos/platzi/dotnet_courses/bestPracticesCsharp/curso-codigo-limpio-csharp/bin/Debug/net7.0/ToDo.pdb
+/home/codesilas/cursos/platzi/dotnet_courses/bestPracticesCsharp/curso-codigo-limpio-csharp/obj/Debug/net7.0/ToDo.csproj.AssemblyReference.cache
+/home/codesilas/cursos/platzi/dotnet_courses/bestPracticesCsharp/curso-codigo-limpio-csharp/obj/Debug/net7.0/ToDo.GeneratedMSBuildEditorConfig.editorconfig
+/home/codesilas/cursos/platzi/dotnet_courses/bestPracticesCsharp/curso-codigo-limpio-csharp/obj/Debug/net7.0/ToDo.AssemblyInfoInputs.cache
+/home/codesilas/cursos/platzi/dotnet_courses/bestPracticesCsharp/curso-codigo-limpio-csharp/obj/Debug/net7.0/ToDo.AssemblyInfo.cs
+/home/codesilas/cursos/platzi/dotnet_courses/bestPracticesCsharp/curso-codigo-limpio-csharp/obj/Debug/net7.0/ToDo.csproj.CoreCompileInputs.cache
+/home/codesilas/cursos/platzi/dotnet_courses/bestPracticesCsharp/curso-codigo-limpio-csharp/obj/Debug/net7.0/ToDo.dll
+/home/codesilas/cursos/platzi/dotnet_courses/bestPracticesCsharp/curso-codigo-limpio-csharp/obj/Debug/net7.0/refint/ToDo.dll
+/home/codesilas/cursos/platzi/dotnet_courses/bestPracticesCsharp/curso-codigo-limpio-csharp/obj/Debug/net7.0/ToDo.pdb
+/home/codesilas/cursos/platzi/dotnet_courses/bestPracticesCsharp/curso-codigo-limpio-csharp/obj/Debug/net7.0/ToDo.genruntimeconfig.cache
+/home/codesilas/cursos/platzi/dotnet_courses/bestPracticesCsharp/curso-codigo-limpio-csharp/obj/Debug/net7.0/ref/ToDo.dll
