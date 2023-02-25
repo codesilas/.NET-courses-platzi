@@ -7,7 +7,8 @@ namespace ToDo
 {
     internal class Program
     {
-        public static List<string> TaskList { get; set; }
+        public static List
+        <string> TaskList { get; set; }
 
         static void Main(string[] args)
         {
@@ -108,5 +109,13 @@ namespace ToDo
                 Console.WriteLine("----------------------------------------");
             }
         }
+    }
+
+    public enum menu
+    {
+        add = 1,
+        remove = 2,
+        list = 3,
+        exit = 4
     }
 }
